@@ -3694,6 +3694,22 @@ input, select, textarea {
 
 
 
+/* кнопка показать еще */
+.show_more {
+	outline: none;
+}
+.button_show_more {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.center_button {
+	margin: 0 auto;
+	margin-bottom: 20px;
+}
+
+
+
+
 
 
 
